@@ -1,0 +1,62 @@
+{
+  "wdruleout": [
+    {
+      "wdname": "usertestsys-general"
+    },
+    {
+      "wdname": "usertestsys-grammarevaluation"
+    },
+    {
+      "wdname": "usertestsys-listeningevaluation"
+    },
+    {
+      "wdname": "usertestsys-readingevaluation"
+    },
+    {
+      "wdname": "usertestsys-speakingevaluation"
+    },
+    {
+      "wdname": "usertestsys-vocabularysizeestimation"
+    },
+    {
+      "wdname": "pywechatnoreply"
+    },
+    {
+      "wdname": "pywechatnoreply-driver"
+    }
+  ],
+  "whodeps": [
+    {
+      "wdname": "usertestsys-general",
+      "wdgiturl": "phabricator.my.org:10080/diffusion/17/usertestsys-general.git"
+    },
+    {
+      "wdname": "usertestsys-grammarevaluation",
+      "wdgiturl": "phabricator.my.org:10080/diffusion/14/usertestsys-grammarevaluation.git"
+    },
+    {
+      "wdname": "usertestsys-listeningevaluation",
+      "wdgiturl": "phabricator.my.org:10080/diffusion/20/usertestsys-listeningevaluation.git"
+    },
+    {
+      "wdname": "usertestsys-readingevaluation",
+      "wdgiturl": "phabricator.my.org:10080/diffusion/22/usertestsys-readingevaluation.git"
+    },
+    {
+      "wdname": "usertestsys-speakingevaluation",
+      "wdgiturl": "phabricator.my.org:10080/diffusion/21/usertestsys-speakingevaluation.git"
+    },
+    {
+      "wdname": "usertestsys-vocabularysizeestimation",
+      "wdgiturl": "phabricator.my.org:10080/diffusion/13/usertestsys-vocabularysizeestimation.git"
+    },
+    {
+      "wdname": "pywechatnoreply",
+      "wdgiturl": "http://phabricator.my.org:10080/diffusion/31/pywechatnoreply.git"
+    },
+    {
+      "wdname": "pywechatnoreply-driver",
+      "wdgiturl": "http://phabricator.my.org:10080/diffusion/32/pywechatnoreply-driver.git"
+    }
+  ]
+}
